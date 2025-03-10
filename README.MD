@@ -1,4 +1,4 @@
-Here is the spell-checked version with no words changed:
+
 
 # Mark Carpenter | The AI RE INVESTOR
 *Full Stack Developer | AI Consultant | Real Estate Innovator*
