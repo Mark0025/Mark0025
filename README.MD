@@ -17,11 +17,9 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 1. [FreeBlog.aireinvestor.com]  (https://freeblog.aireinvestor.com)   - AI-powered content scaling platform
 2. [Learn.aireinvestor.com] (https://learn.aireinvestor.com) - Free AI & dev resources
 3. Enterprise AI Consulting - [aireinvestor.com](https://aireinvestor.com)
-4. [ONE52bar.com]
+4. ONE-52 BAR FUL STACK WEB APPLICAOIN COMPLETE WITH MENU AND LOYALITY PROGRAMS [ONE52-BAR] (https://one52bar.com) 
 
-MY PROJECTS / PORTFOLIOS 
 
-1. 
 
 ## 🤝 Let's Connect
 - 📅 Book a chat: [15-Min Strategy Call](https://api.leadconnectorhq.com/widget/booking/X997wA5xcSPMCNfiD7Z5)
