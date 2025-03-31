@@ -15,14 +15,17 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 
 
 ## 💡 Current Projects
-1. (https://freeblog.aireinvestor.com)   - AI-powered content scaling platform
-2. (https://learn.aireinvestor.com) - Free AI & dev resources
-3. Enterprise AI Consulting - [aireinvestor.com](https://aireinvestor.com)
+0. [My-Portfolio](https://marks-portfolio-69eq.onrender.com)
+1. [freeblog AI-powered content scaling platform ](https://freeblog.aireinvestor.com) https://freeblog.aireinvestor.com
+2. [learn tech skills](https://learn.aireinvestor.com) - Free AI & dev resources
+3. Enterprise AI Consulting - [aireinvestor](https://aireinvestor.com)
+
+
 
 
 
 ## 📕  PORTFOLIO 
-1. ONE-52 BAR FUL STACK WEB APPLICAOIN COMPLETE WITH MENU AND LOYALITY PROGRAMS [ONE52-BAR] (https://one52bar.com) 
+1. ONE-52 BAR FUL STACK WEB APPLICAOIN BUILT ON NEXTJS, REACT AND TAILWIND-CSS COMPLETE WITH MENU AND LOYALITY PROGRAMS [ONE52-BAR] (https://one52bar.com) 
 2. Makreting director for Andrewcrosscoaching.com (https://Andrewcrosscoaching.com)  , Go high level build website and automation. My firend and fellow Realestate Investor Andrew Cross of Andrew cross coaching. wanted some tech help and i helped him with ai content automation , and desining the Go high level workflow and IT backend services. 
 3. Amandas Party ordering application. [NEXT.JS FULL STACK APP FOR MAAGING PARTY SERVICES](https://amandas-app.vercel.app/) 
 4. GO GEICO APP BUILT IN GO LANG [geico-todo-APP](https://learn-go-git-main-mark-carpenters-projects.vercel.app/)
