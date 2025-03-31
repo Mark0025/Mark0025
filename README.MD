@@ -15,9 +15,13 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 
 
 ## 💡 Current Projects
-0. [My-Portfolio](https://marks-portfolio-69eq.onrender.com)
+0. [My-Portfolio](https://marks-portfolio-69eq.onrender.com) - This can take up to 50 seconds to spin up it runs on a free version of render. 
+
  --  [MY CODE USED TO CREATE THE PORTFOLIO ](https://github.com/THE-AI-REAL-ESTATE-INVESTOR/portfolio) -- 
+
 1. [freeblog AI-powered content scaling platform ](https://freeblog.aireinvestor.com) https://freeblog.aireinvestor.com
+
+- Next JS APP Built With TailwindCSS 4 and helps people use ai and build personalized agents in realestate. (this is in final stages of development not all features are finished. )
 
 2. [learn tech skills](https://learn.aireinvestor.com) - Free AI & dev resources
 
@@ -40,6 +44,8 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 5.  Python - cli tool to help you learn linux A must have for any developer or hoby [Python - cli tool](https://github.com/Mark0025/Linux-cheats)
 
 -- You can also se the raw table without dowloading the cli @ - [learn-linux](https://learn.aireinvestor.com/learn/linux-cheats) 
+
+--MORE PROJECTS- 
 
 
 
