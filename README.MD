@@ -24,6 +24,6 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 - 🌐 Community: [Facebook](https://www.facebook.com/aireinvestor)
 - 💼 LinkedIn: [Profile](https://www.linkedin.com/in/mark-carpenter-573b4b76/)
 - 📚 GitHub: [@aireinvestor](https://github.com/THE-AI-REAL-ESTATE-INVESTOR)
-- [![GitHub](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/brands/github.svg)](https://github.com/Mark0025)
+- 💻 (https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/svgs/brands/github.svg)](https://github.com/Mark0025)
 
 
