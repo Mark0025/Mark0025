@@ -19,7 +19,9 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 ## 💡 Current Projects
 0. [My-Portfolio](https://marks-portfolio-69eq.onrender.com) - This can take up to 50 seconds to spin up it runs on a free version of render. 
 
-         --  [MY CODE USED TO CREATE THE PORTFOLIO ](https://github.com/THE-AI-REAL-ESTATE-INVESTOR/portfolio) -- 
+         --  [MY CODE USED TO CREATE THE PORTFOLIO ]
+    
+    (https://github.com/THE-AI-REAL-ESTATE-INVESTOR/portfolio) -- 
 
 1. [freeblog AI-powered content scaling platform ](https://freeblog.aireinvestor.com) https://freeblog.aireinvestor.com
 
