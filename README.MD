@@ -7,7 +7,7 @@
 I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklahoma. I help businesses leverage AI through deep tech integration and practical implementation strategies.
 
 ## 🚀 What I Do
-- Founder of [aireinvestor.com](https://aireinvestor.com)
+- Founder of [aireinvestor.com]
 - AI Strategy Consultant
 - Full Stack Developer
 - Certified AI Persona Consultant
