@@ -13,6 +13,8 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 - Certified AI Persona Consultant
 - Real Estate Tech Innovator
 
+- read my full story here - (https://github.com/Mark0025/Mark0025/edit/main/README.MD)
+
 
 ## 💡 Current Projects
 0. [My-Portfolio](https://marks-portfolio-69eq.onrender.com) - This can take up to 50 seconds to spin up it runs on a free version of render. 
