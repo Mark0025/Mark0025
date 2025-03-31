@@ -7,7 +7,7 @@
 I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklahoma. I help businesses leverage AI through deep tech integration and practical implementation strategies.
 
 ## 🚀 What I Do
-- Founder of [aireinvestor.com]
+- Founder of (aireinvestor.com)
 - AI Strategy Consultant
 - Full Stack Developer
 - Certified AI Persona Consultant
@@ -15,15 +15,15 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 
 
 ## 💡 Current Projects
-1. [FreeBlog.aireinvestor.com]  (https://freeblog.aireinvestor.com)   - AI-powered content scaling platform
-2. [Learn.aireinvestor.com] (https://learn.aireinvestor.com) - Free AI & dev resources
+1. (https://freeblog.aireinvestor.com)   - AI-powered content scaling platform
+2. (https://learn.aireinvestor.com) - Free AI & dev resources
 3. Enterprise AI Consulting - [aireinvestor.com](https://aireinvestor.com)
 4. ONE-52 BAR FUL STACK WEB APPLICAOIN COMPLETE WITH MENU AND LOYALITY PROGRAMS [ONE52-BAR] (https://one52bar.com) 
 
 
 ## 📕  PORTFOLIO 
-1. Makreting director for Andrewcrosscoaching.com (Andrewcrosscoaching.com)  , Go high level build website and automation. My firend and fellow Realestate Investor Andrew Cross of Andrewcross coaching. wanted some tech help and i helped him with ai content automation , and desining the Go high level workflow and IT backend services. 
-1. Amandas Party ordering application. () 
+1. Makreting director for Andrewcrosscoaching.com (Andrewcrosscoaching.com)  , Go high level build website and automation. My firend and fellow Realestate Investor Andrew Cross of Andrew cross coaching. wanted some tech help and i helped him with ai content automation , and desining the Go high level workflow and IT backend services. 
+1. Amandas Party ordering application. (https://amandas-app.vercel.app/) 
 
 ## 🤝 Let's Connect
 - 📅 Book a chat: [15-Min Strategy Call](https://api.leadconnectorhq.com/widget/booking/X997wA5xcSPMCNfiD7Z5)
