@@ -22,7 +22,7 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 
 
 ## 📕  PORTFOLIO 
-1. Makreting director for Andrewcrosscoaching.com (Andrewcrosscoaching.com)  , Go high level build website and automation. My firend and fellow Realestate Investor Andrew Cross of Andrew cross coaching. wanted some tech help and i helped him with ai content automation , and desining the Go high level workflow and IT backend services. 
+1. Makreting director for Andrewcrosscoaching.com (https://Andrewcrosscoaching.com)  , Go high level build website and automation. My firend and fellow Realestate Investor Andrew Cross of Andrew cross coaching. wanted some tech help and i helped him with ai content automation , and desining the Go high level workflow and IT backend services. 
 1. Amandas Party ordering application. (https://amandas-app.vercel.app/) 
 
 ## 🤝 Let's Connect
