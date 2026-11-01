@@ -16,33 +16,36 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 - read my full story here - [my-story](https://github.com/Mark0025/Mark0025/blob/main/my-story.md)
 
 
-## 📕  PORTFOLIO 
+## 📕 What I've Built
 
-0. [My-Portfolio](https://mark.aireinvestor.com) - mark.aireinvestor.com
-    
-    [Link to source code](https://github.com/THE-AI-REAL-ESTATE-INVESTOR/portfolio) -- 
+**[AIREI app](https://app.aireinvestor.com)**  
+<sub>AI-powered content scaling platform that helps people use AI and build personalized agents in real estate. Formerly FreeBlog.</sub>
 
-1. [AIREI app](https://app.aireinvestor.com) (formerly FreeBlog) - AI-powered content scaling platform that helps people use AI and build personalized agents in real estate.
+**[NPM Auth Gateway](https://github.com/Mark0025/npm-auth-gateway)** <img src="https://img.shields.io/github/stars/Mark0025/npm-auth-gateway?style=flat-square&label=%E2%98%85&labelColor=24292f&color=57606a" alt="stars">  
+<sub>User-level access control for Nginx Proxy Manager: users sign in through an auth provider and their IP is added to NPM access lists automatically. TypeScript + Docker.</sub>
 
-2. [NPM Auth Gateway](https://github.com/Mark0025/npm-auth-gateway) ★15 - User-level access control for Nginx Proxy Manager: users sign in through an auth provider and their IP is added to NPM access lists automatically. TypeScript + Docker.
+**[QuickBooks PO Automation](https://github.com/THE-AI-REAL-ESTATE-INVESTOR/QuickBooks-PO-Automation)**  
+<sub>AI extracts data from purchase orders (PDFs, scans, email attachments) and creates vendors, items and purchase orders in QuickBooks Desktop Enterprise.</sub>
 
-3. [QuickBooks PO Automation](https://github.com/THE-AI-REAL-ESTATE-INVESTOR/QuickBooks-PO-Automation) - AI extracts data from purchase orders (PDFs, scans, email attachments) and creates vendors, items and purchase orders in QuickBooks Desktop Enterprise.
+**[Learn AI & Dev Skills](https://learn.aireinvestor.com)**  
+<sub>Free AI and development resources, including a searchable [Linux cheat sheet](https://learn.aireinvestor.com/learn/linux-cheats).</sub>
 
-4. [learn tech skills](https://learn.aireinvestor.com) - Free AI & dev resources
+**[Portfolio](https://mark.aireinvestor.com)**  
+<sub>My personal site: Next.js + Tailwind CSS, deployed on Vercel.</sub>
 
-5. Enterprise AI Consulting - [aireinvestor](https://aireinvestor.com)
+<details>
+<summary><strong>More projects</strong> (client work and earlier projects)</summary>
 
-6. ONE-52 Bar & Grill - full-stack web application built on Next.js, React and Tailwind CSS, complete with menu and loyalty programs (client project, no longer hosted).
--- SOURCE CODE - https://github.com/THE-AI-REAL-ESTATE-INVESTOR/0ne52bar
+<br>
 
-7. Marketing director for Andrew Cross Coaching: Go High Level website build and automation. My friend and fellow real estate investor Andrew Cross wanted some tech help, and I helped him with AI content automation, designing the Go High Level workflow, and IT backend services.
+| Project | What It Does |
+|---------|--------------|
+| **ONE-52 Bar & Grill** ([source](https://github.com/THE-AI-REAL-ESTATE-INVESTOR/0ne52bar)) | Full-stack restaurant site with menu and loyalty programs: Next.js, React, Tailwind CSS *(client project, no longer hosted)* |
+| **Andrew Cross Coaching** | Marketing director: Go High Level website build, AI content automation, workflow design and IT backend services |
+| **[Geico To-Do App](https://learn-go-gamma.vercel.app/)** ([source](https://github.com/Mark0025/Learn-go)) | To-do app built while learning Go |
+| **[Linux-cheats](https://github.com/Mark0025/Linux-cheats)** | Python CLI that teaches Linux commands |
 
-8. GO GEICO APP BUILT IN GO LANG [geico-todo-APP](https://learn-go-gamma.vercel.app/)
--- DEV OPEN SOURCE CODE - https://github.com/Mark0025/Learn-go
- 
-9. Python - cli tool to help you learn linux A must-have for any developer or hobbyist [Python - cli tool](https://github.com/Mark0025/Linux-cheats)
-
--- You can also see the raw table without downloading the CLI @ - [learn-linux](https://learn.aireinvestor.com/learn/linux-cheats) 
+</details>
 
 
 
