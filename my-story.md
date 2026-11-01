@@ -41,7 +41,7 @@ Why? Because I love business and the crazy entrepreneurs who run them. We're the
 
 ### Our 2025 Roadmap - brought to you by https://github.com/THE-AI-REAL-ESTATE-INVESTOR
 
-1. **FreeBlog.aireinvestor.com**
+1. **FreeBlog, now [app.aireinvestor.com](https://app.aireinvestor.com)**
    - My first production launch for the wider community
    - Built on the shoulders of giants like Daniel Miessler's Fabric (https://github.com/danielmiessler/fabric)
    - Leveraging OpenRouter Team's innovations (https://github.com/OpenRouterTeam)
