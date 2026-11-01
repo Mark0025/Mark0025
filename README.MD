@@ -22,33 +22,23 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
     
     [Link to source code](https://github.com/THE-AI-REAL-ESTATE-INVESTOR/portfolio) -- 
 
-1. [freeblog AI-powered content scaling platform ](https://freeblog.aireinvestor.com) https://freeblog.aireinvestor.com
+1. [NPM Auth Gateway](https://github.com/Mark0025/npm-auth-gateway) ★15 - User-level access control for Nginx Proxy Manager: users sign in through an auth provider and their IP is added to NPM access lists automatically. TypeScript + Docker.
 
-- Next JS APP Built With TailwindCSS 4 and helps people use ai and build personalized agents in realestate. (this is in final stages of development not all features are finished. )
+2. [QuickBooks PO Automation](https://github.com/THE-AI-REAL-ESTATE-INVESTOR/QuickBooks-PO-Automation) - AI extracts data from purchase orders (PDFs, scans, email attachments) and creates vendors, items and purchase orders in QuickBooks Desktop Enterprise.
 
-2. [learn tech skills](https://learn.aireinvestor.com) - Free AI & dev resources -
+3. [learn tech skills](https://learn.aireinvestor.com) - Free AI & dev resources
 
+4. Enterprise AI Consulting - [aireinvestor](https://aireinvestor.com)
 
+5. ONE-52 Bar & Grill - full-stack web application built on Next.js, React and Tailwind CSS, complete with menu and loyalty programs (client project, no longer hosted).
+-- SOURCE CODE - https://github.com/THE-AI-REAL-ESTATE-INVESTOR/0ne52bar
 
-3. Enterprise AI Consulting - [aireinvestor](https://aireinvestor.com) 
-
-
-
-
-
-
-
-4. ONE-52 BAR full-stack web application built on Next.js, React and Tailwind CSS, complete with menu and loyalty programs [ONE52-BAR](https://one52bar.com) 
-
-5. Marketing director for [Andrew Cross Coaching](https://andrewcrosscoaching.com): Go High Level website build and automation. My friend and fellow real estate investor Andrew Cross wanted some tech help, and I helped him with AI content automation, designing the Go High Level workflow, and IT backend services. 
-
-6. Amandas Party ordering application. [Next.js full-stack app for managing party services](https://amandas-app.vercel.app/) 
--- DEV OPEN SOURCE CODE - https://github.com/THE-AI-REAL-ESTATE-INVESTOR/amandas-app-public/tree/pre-production/nextjs-dashboard
+6. Marketing director for Andrew Cross Coaching: Go High Level website build and automation. My friend and fellow real estate investor Andrew Cross wanted some tech help, and I helped him with AI content automation, designing the Go High Level workflow, and IT backend services.
 
 7. GO GEICO APP BUILT IN GO LANG [geico-todo-APP](https://learn-go-gamma.vercel.app/)
 -- DEV OPEN SOURCE CODE - https://github.com/Mark0025/Learn-go
  
-8.  Python - cli tool to help you learn linux A must-have for any developer or hobbyist [Python - cli tool](https://github.com/Mark0025/Linux-cheats)
+8. Python - cli tool to help you learn linux A must-have for any developer or hobbyist [Python - cli tool](https://github.com/Mark0025/Linux-cheats)
 
 -- You can also see the raw table without downloading the CLI @ - [learn-linux](https://learn.aireinvestor.com/learn/linux-cheats) 
 
