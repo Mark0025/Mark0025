@@ -7,7 +7,7 @@
 I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklahoma. I help businesses leverage AI through deep tech integration and practical implementation strategies.
 
 ## 🚀 What I Do
-- Founder of (https://aireinvestor.com)
+- Founder of [aireinvestor.com](https://aireinvestor.com)
 - AI Strategy Consultant
 - Full Stack Developer
 - Certified AI Persona Consultant
@@ -38,29 +38,29 @@ I'm Mark Carpenter - an ADHD Realestate Investor turned AI consultant from Oklah
 
 
 
-4. ONE-52 BAR FUL STACK WEB APPLICAOIN BUILT ON NEXTJS, REACT AND TAILWIND-CSS COMPLETE WITH MENU AND LOYALITY PROGRAMS [ONE52-BAR] (https://one52bar.com) 
+4. ONE-52 BAR full-stack web application built on Next.js, React and Tailwind CSS, complete with menu and loyalty programs [ONE52-BAR](https://one52bar.com) 
 
-5. Makreting director for Andrewcrosscoaching.com (https://Andrewcrosscoaching.com)  , Go high level build website and automation. My firend and fellow Realestate Investor Andrew Cross of Andrew cross coaching. wanted some tech help and i helped him with ai content automation , and desining the Go high level workflow and IT backend services. 
+5. Marketing director for [Andrew Cross Coaching](https://andrewcrosscoaching.com): Go High Level website build and automation. My friend and fellow real estate investor Andrew Cross wanted some tech help, and I helped him with AI content automation, designing the Go High Level workflow, and IT backend services. 
 
-6. Amandas Party ordering application. [NEXT.JS FULL STACK APP FOR MAAGING PARTY SERVICES](https://amandas-app.vercel.app/) 
+6. Amandas Party ordering application. [Next.js full-stack app for managing party services](https://amandas-app.vercel.app/) 
 -- DEV OPEN SOURCE CODE - https://github.com/THE-AI-REAL-ESTATE-INVESTOR/amandas-app-public/tree/pre-production/nextjs-dashboard
 
-7. GO GEICO APP BUILT IN GO LANG [geico-todo-APP](https://learn-go-git-main-mark-carpenters-projects.vercel.app/)
--- DEV OPEN SOURCE CODE - 
+7. GO GEICO APP BUILT IN GO LANG [geico-todo-APP](https://learn-go-gamma.vercel.app/)
+-- DEV OPEN SOURCE CODE - https://github.com/Mark0025/Learn-go
  
-8.  Python - cli tool to help you learn linux A must have for any developer or hoby [Python - cli tool](https://github.com/Mark0025/Linux-cheats)
+8.  Python - cli tool to help you learn linux A must-have for any developer or hobbyist [Python - cli tool](https://github.com/Mark0025/Linux-cheats)
 
--- You can also se the raw table without dowloading the cli @ - [learn-linux](https://learn.aireinvestor.com/learn/linux-cheats) 
+-- You can also see the raw table without downloading the CLI @ - [learn-linux](https://learn.aireinvestor.com/learn/linux-cheats) 
 
 
 
 ## 🤝 Let's Connect
-- 📅 Book a chat: [15-Min Strategy Call](https://api.leadconnectorhq.com/widget/booking/X997wA5xcSPMCNfiD7Z5)
+- 📅 Book a chat: [Free 30-Min AI Strategy Call](https://aireinvestor.com/call)
 - 📧 Email: mark@aireinvestor.com
-- 💻 Portfolio [mark.aireinvestor.com](mark.aireinvestor.com)
+- 💻 Portfolio [mark.aireinvestor.com](https://mark.aireinvestor.com)
 - 🌐 Community: [Facebook](https://www.facebook.com/aireinvestor)
 - 💼 LinkedIn: [Profile](https://www.linkedin.com/in/mark-carpenter-573b4b76/)
 - 📚 GitHub: [@aireinvestor](https://github.com/THE-AI-REAL-ESTATE-INVESTOR)
-- 💻 [Personal git gub ](https://github.com/Mark0025)
+- 💻 [Personal GitHub](https://github.com/Mark0025)
 
 
