@@ -41,7 +41,7 @@ Why? Because I love business and the crazy entrepreneurs who run them. We're the
 
 ### Our 2025 Roadmap - brought to you by https://github.com/THE-AI-REAL-ESTATE-INVESTOR
 
-1. **FreeBlog.aireinvestor.com**
+1. **FreeBlog, now [app.aireinvestor.com](https://app.aireinvestor.com)**
    - My first production launch for the wider community
    - Built on the shoulders of giants like Daniel Miessler's Fabric (https://github.com/danielmiessler/fabric)
    - Leveraging OpenRouter Team's innovations (https://github.com/OpenRouterTeam)
@@ -69,7 +69,7 @@ Why? Because I love business and the crazy entrepreneurs who run them. We're the
 ## 🤝 Let's Connect (For Real Though)
 I don't care how successful I get - if you need 15 minutes to get unstuck, I'm here. Why? Because someone helped me when I couldn't even type.
 
-- Need help? Book a chat: [15-Min Strategy Call](https://api.leadconnectorhq.com/widget/booking/X997wA5xcSPMCNfiD7Z5)
+- Need help? Book a chat: [Free 30-Min AI Strategy Call](https://aireinvestor.com/call)
 - Direct line: mark@aireinvestor.com
 - Join the revolution: [Facebook Community](https://www.facebook.com/aireinvestor)
 
@@ -86,7 +86,7 @@ I believe it's vital for humanity that we don't rush to replace everyone with AI
 
 We'll be helping businesses worldwide implement AI at a high level in 2025 and beyond. Whether you're a startup or a $10 million+ company, we understand that AI implementation looks different for every team. Let's educate your team and get the most out of your employees.
 
-Ready to start? Let's discuss how we can help: https://aireinvestor.com/contact-us
+Ready to start? Let's discuss how we can help: https://aireinvestor.com/contact
 
 
 God bless, happy coding, and see you soon! 🙏
